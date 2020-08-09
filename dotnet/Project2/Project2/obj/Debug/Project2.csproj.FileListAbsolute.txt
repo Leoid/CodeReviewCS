@@ -1,0 +1,6 @@
+C:\Users\bitwis3\source\repos\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\bitwis3\source\repos\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\bitwis3\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\bitwis3\source\repos\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\bitwis3\source\repos\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\bitwis3\source\repos\Project2\Project2\obj\Debug\Project2.pdb

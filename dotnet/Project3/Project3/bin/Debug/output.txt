@@ -1,0 +1,1 @@
+<Class><item role="Project3.User, Project3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"><User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><name>b1twis3</name><Name>b1twis3</Name></User></item></Class>
