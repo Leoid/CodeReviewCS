@@ -1,0 +1,11 @@
+C:\Users\bitwis3\source\repos\Project4\Project4\bin\Debug\Project4.exe
+C:\Users\bitwis3\source\repos\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\bitwis3\source\repos\Project4\Project4\bin\Debug\Project4.pdb
+C:\Users\bitwis3\source\repos\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\bitwis3\source\repos\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\bitwis3\source\repos\Project4\Project4\obj\Debug\Project4.pdb
+C:\Users\bitwis3\source\repos\Project4\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
+C:\Users\bitwis3\source\repos\Project4\Project4\bin\Debug\Project3.exe
+C:\Users\bitwis3\source\repos\Project4\Project4\bin\Debug\Project3.pdb
+C:\Users\bitwis3\source\repos\Project4\Project4\bin\Debug\Project3.exe.config
+C:\Users\bitwis3\source\repos\Project4\Project4\obj\Debug\Project4.csproj.CopyComplete

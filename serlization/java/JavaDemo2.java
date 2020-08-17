@@ -7,8 +7,8 @@ class JavaDemo2{
         User u1 = null;
 
         //Saving the data into a file
-        //String fname = "test.serialized";
-        String fname = "ysoserial/calc";
+        String fname = "test.serialized";
+        //String fname = "ysoserial/calc";
 
         try{
 

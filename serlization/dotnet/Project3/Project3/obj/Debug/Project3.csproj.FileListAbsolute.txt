@@ -1,0 +1,7 @@
+C:\Users\bitwis3\source\repos\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\bitwis3\source\repos\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\bitwis3\source\repos\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\bitwis3\source\repos\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\bitwis3\source\repos\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\bitwis3\source\repos\Project3\Project3\obj\Debug\Project3.pdb
+C:\Users\bitwis3\source\repos\Project3\Project3\obj\Debug\Project3.csprojAssemblyReference.cache

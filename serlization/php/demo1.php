@@ -13,8 +13,7 @@ $b1twis3->age = '30';
 $ser = serialize($b1twis3);
 $uns = unserialize($ser);
 
-var_dump($ser);
-var_dump($uns);
+echo $uns->name;
 
 
 

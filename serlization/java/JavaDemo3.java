@@ -9,6 +9,7 @@ class JavaDemo3{
 
         //Generate a serilized User object based on the args username
         u1.name = args[0].toString();
+
         if(u1.name.equals("b1twis3")){
             u1.role = "admin";
             Serialize(u1);

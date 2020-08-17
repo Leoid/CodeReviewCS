@@ -18,9 +18,10 @@ echo $ser;
 $exp = 'O:6:"Person":3:{s:4:"name";s:5:"Hamid";s:3:"age";s:2:"30";s:4:"role";s:5:"admin";}';
 
 $uns = unserialize($exp);
+echo $uns->name.$uns->role;
 
 
-var_dump($uns);
+//var_dump($uns);
 
 
 

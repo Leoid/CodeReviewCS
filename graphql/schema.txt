@@ -1,0 +1,39 @@
+GraphQL Schema
+==========================================
+type User{
+    id: GraphQLID,
+    username: GraphQLString
+}
+
+type RootQuery{
+    users:{ type: new UserType}
+}
+
+type Mutation{
+    register:{
+        type: UserType,
+        args:{
+            username: {type: new GraphQLString},
+        }
+    }
+}
+
+
+
+
+
+GraphQL Operations
+==========================================
+query{
+    users{
+        id,
+        username,
+    }
+}
+
+mutation{
+    register(username: "b1twis3"){
+        id,
+        username,
+    }
+}
